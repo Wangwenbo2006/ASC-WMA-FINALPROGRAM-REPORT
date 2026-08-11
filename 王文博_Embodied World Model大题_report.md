@@ -1,4 +1,4 @@
-# ASC 队员选拔最终报告（大题：Embodied World Model）
+# ASC 选拔题目报告（选择大题：Embodied World Model-WMA）
 
 
 ## 一、基本信息
@@ -42,7 +42,7 @@
 ```bash
 cd /root/autodl-tmp/unifolm-world-model-action
 { time bash ASC26-Embodied-World-Model-Optimization-main/unitree_g1_pack_camera/case1/run_world_model_interaction.sh; } 2>&1 | tee output_asc.log
-
+```
 ### 4.2 Baseline 配置
 
 | 配置项 | 值 |
@@ -330,8 +330,7 @@ cd /root/autodl-tmp/unifolm-world-model-action && \
 | 实验3.1 | output_compile_fp16_steps30.log | psnr_compile_fp16_steps30.json | 0_full_fs6.mp4 |
 | 实验4a | output_guidance2_fp16_steps30.log | psnr_guidance2_fp16_steps30.json | 0_full_fs6.mp4 |
 | 实验4b | output_guidance3_fp16_steps30.log | psnr_guidance3_fp16_steps30.json | 0_full_fs6.mp4 |
-```
 
----
+
 
 **报告结束**
