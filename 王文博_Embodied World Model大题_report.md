@@ -8,7 +8,7 @@
 | 姓名 | **王文博** |
 | 年级专业 | **2024级 计算机科学与技术 绿色算力创新班** |
 | 大题 | **Embodied World Model (UnifoLM-WMA-0)** |
-| 大题仓库链接 | https://github.com/Wangwenbo2006/ASC-_HPCG-_-_- （待定） |
+| 大题仓库链接 | https://github.com/Wangwenbo2006/ASC-WMA-FINALPROGRAM-REPORT |
 
 
 ## 二、题目理解
